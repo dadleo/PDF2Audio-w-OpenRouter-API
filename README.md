@@ -1,6 +1,6 @@
 # PDF to Audio Converter with OpenRouter API in Colab
 
-A fork from (https://github.com/lamm-mit/PDF2Audio.git), working with OpenRouter API in Colab environment.
+A fork from (https://github.com/lamm-mit/PDF2Audio, working with OpenRouter API in Colab environment.
 
 Before running, make sure to set your OpenRouter API key in the Colab environment variables or enter it in the provided text box when running the app.
 
@@ -16,7 +16,7 @@ Before running, make sure to set your OpenRouter API key in the Colab environmen
 
 ## Use in Colab
 
-[![Open In Colab](https://colab.research.google.com/drive/1z7kxASuZ2XJ9TVe01THHq3s5BmHEXt9a?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1z7kxASuZ2XJ9TVe01THHq3s5BmHEXt9a?usp=sharing)
 
 ## Note
 
@@ -24,5 +24,5 @@ This app should launch the Gradio interface within Colab, allowing users to uplo
 
 ## Credits
 
-This project was inspired by and based on the code available at [https://github.com/knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast), [https://github.com/knowsuchagency/promptic](https://github.com/knowsuchagency/promptic), [https://github.com/lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio).
+This project was inspired by and based on the code available @ [https://github.com/knowsuchagency/pdf-to-podcast](https://github.com/knowsuchagency/pdf-to-podcast), [https://github.com/knowsuchagency/promptic](https://github.com/knowsuchagency/promptic), [https://github.com/lamm-mit/PDF2Audio](https://github.com/lamm-mit/PDF2Audio).
 
