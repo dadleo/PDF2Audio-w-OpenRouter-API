@@ -2,6 +2,8 @@
 
 A fork from (https://github.com/lamm-mit/PDF2Audio.git), working with OpenRouter API in Colab environment.
 
+Before running, make sure to set your OpenRouter API key in the Colab environment variables or enter it in the provided text box when running the app.
+
 ## Features
 
 - Upload multiple PDF files
@@ -14,18 +16,11 @@ A fork from (https://github.com/lamm-mit/PDF2Audio.git), working with OpenRouter
 
 ## Use in Colab
 
-[![Open In Colab](to be reviewed)
-
-## Example result
-
-<audio controls>
-  <source src="[https://user-images.githubusercontent.com/your-username/your-repo/path-to-audio-file.mp3](https://raw.githubusercontent.com/lamm-mit/PDF2Audio/main/SciAgents%20discovery%20summary%20-%20example.mp3)" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
+[![Open In Colab](https://colab.research.google.com/drive/1z7kxASuZ2XJ9TVe01THHq3s5BmHEXt9a?usp=sharing)
 
 ## Note
 
-This app requires an OpenRouter API key to function. 
+This app should launch the Gradio interface within Colab, allowing users to upload PDFs and generate audio podcasts based on their content.
 
 ## Credits
 
